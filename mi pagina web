@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dependencias a la tecnologia</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Dependencias a la tecnologia</h1>
+    <p>Se da cuando una persona utiliza cada vez más los dispositivos tecnológicos, perdiendo poco a poco el poder de gestionar el tiempo y modo de uso, así como creando un malestar (incluso ansiedad y estrés) en momentos en los que no pueden ser utilizados, generando supeditación hacia el uso de ese objeto.</p>
+    <h2>Sintomas</h2>
+             <ul>
+                   <li>Aislamiento social directo: utilizan las tecnologías para relacionarse, pero se alejan del contacto directo con los demás</li>
+                   <li>Desatender actividades diarias</li>
+                   <li>Gran dependencia digital, llegando incluso a la incapacidad para realizar actividades y gestiones habituales sin el uso de las tecnologías.</li>
+                   <li>Aumento descontrolado del tiempo de uso.</li>
+                   <li>Sentimientos de tristeza e irritabilidad si no tienen acceso a las TIC..</li>
+                   <li>Reducción de las horas de sueño.</li>
+             </ul>
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx7Gh0qgon_MasJkzsLlcYU3zaMZKh4S5uU0TNJ4wl0hwjztP49JAk7bA-c0Ng-6CxxeI&usqp=CAU">
+</body>
+</html>
